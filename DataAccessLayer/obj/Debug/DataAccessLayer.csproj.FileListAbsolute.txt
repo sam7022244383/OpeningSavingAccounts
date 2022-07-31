@@ -1,0 +1,10 @@
+C:\workarea\SavingAccount\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\workarea\SavingAccount\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\workarea\SavingAccount\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\workarea\SavingAccount\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\workarea\SavingAccount\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\workarea\SavingAccount\DataAccessLayer\bin\Debug\BusinessLogic.dll
+C:\workarea\SavingAccount\DataAccessLayer\bin\Debug\BusinessLogic.pdb
+C:\workarea\SavingAccount\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\workarea\SavingAccount\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\workarea\SavingAccount\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
