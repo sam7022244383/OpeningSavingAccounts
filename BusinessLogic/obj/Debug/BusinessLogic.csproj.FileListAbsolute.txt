@@ -1,0 +1,6 @@
+C:\workarea\SavingAccount\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\workarea\SavingAccount\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\workarea\SavingAccount\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\workarea\SavingAccount\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\workarea\SavingAccount\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\workarea\SavingAccount\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
